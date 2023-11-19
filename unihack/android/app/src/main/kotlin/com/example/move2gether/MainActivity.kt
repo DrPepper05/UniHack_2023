@@ -1,4 +1,4 @@
-package com.example.unihack
+package com.example.move2gether
 
 import io.flutter.embedding.android.FlutterActivity
 
